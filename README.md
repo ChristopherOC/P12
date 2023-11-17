@@ -16,7 +16,7 @@ Toutes ces applications s'articulent autours de relations et de restrictions.
 
 Il vous faudra installer python 3.9 au minimum et un IDE de votre choix (PyCharm, VSCode...).
 Ouvrez un terminal, clonez ce répertoire :
-> git clone (https://github.com/ChristopherOC/P12OC.git)
+> git clone (https://github.com/ChristopherOC/P12.git)
 
 Placez vous dans le dossier créé comme ceci :
 > cd EpicEventsApp
